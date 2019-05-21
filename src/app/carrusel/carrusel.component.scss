@@ -1,0 +1,32 @@
+.mensaje {
+    span {
+        font-size: 30px;
+    }    
+}
+
+.contenido {
+    padding-top: 30px;
+    text-align: center;
+    .carrusel {
+        width: 90%;
+        padding-left: 10%;
+        img {
+            max-width: 357px;
+            max-height: 635px;
+        }
+    }
+}
+
+.titulo {
+    padding-top: 30px;
+    text-align: center;
+    .container {
+        width: 90%;
+        background-color: lightblue;
+        height: 80px;
+        border-radius: 30px;
+    }
+    .texto {
+        font-size: 45px;
+    }
+}
